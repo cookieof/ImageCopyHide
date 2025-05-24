@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "interval": 45,
+  "source_dir": "/sdcard/DCIM/Camera",
+  "target_dir": "/sdcard/wot/cptp"
+}
